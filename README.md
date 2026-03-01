@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 Deep interest in Embedded Programming<br><br>⚙️ Hands-on experience with Microcontrollers<br><br>⏱️ Exploring Real-Time Operating Systems (RTOS)<br><br>📚 Currently learning QNX Neutrino RTOS<br><br>🔌 Interested in hardware-software integration<br><br>🧠 Focused on writing efficient and reliable embedded code
+<!--# 💫 About Me:
+👨‍💻 About Me<br><br>🔭 Deep interest in Embedded Programming<br><br>⚙️ Hands-on experience with Microcontrollers<br><br>⏱️ Exploring Real-Time Operating Systems (RTOS)<br><br>📚 Currently learning QNX Neutrino RTOS<br><br>🔌 Interested in hardware-software integration<br><br>🧠 Focused on writing efficient and reliable embedded code-->
 
 
 ## 🌐 Socials:
